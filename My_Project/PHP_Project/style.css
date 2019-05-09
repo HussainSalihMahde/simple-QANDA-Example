@@ -1,0 +1,21 @@
+.hide {
+    display: none;
+}
+
+.im {
+    width: 150px;
+    height: 150px;
+}
+
+.om {
+    margin-left: 600px;
+    margin-top: 200px;
+}
+
+.form {
+    border-radius: 20px;
+}
+
+.cont {
+    width: 450px;
+}
